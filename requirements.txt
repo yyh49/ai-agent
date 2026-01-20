@@ -1,6 +1,6 @@
 streamlit
-langchain
-langchain-openai
+langchain==0.1.20
+langchain-openai==0.1.7
 openai
 faiss-cpu
 pypdf
