@@ -1,7 +1,9 @@
 streamlit
 langchain
 langchain-openai
+openai
 faiss-cpu
 pypdf
+duckduckgo-search
 requests
 wikipedia
